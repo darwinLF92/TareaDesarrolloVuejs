@@ -4,6 +4,8 @@ import { createApp } from 'vue';
 import App from './App.vue';
 import axios from 'axios';
 
+
+
 const app = createApp(App);
 
 // Opcional: Si quieres hacer axios disponible globalmente en todos tus componentes.

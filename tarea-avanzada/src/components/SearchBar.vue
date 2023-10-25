@@ -8,7 +8,7 @@
 export default {
   data() {
     return {
-      searchTerm: ''
+      searchTerm: '' //se agrega para buscar
     };
   },
   methods: {
@@ -18,3 +18,4 @@ export default {
   }
 }
 </script>
+
